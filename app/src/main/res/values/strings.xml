@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Andromeda Local Client</string>
+    <string name="start_andromeda">Start Andromeda</string>
+    <string name="substratum_installed">Substratum Installed</string>
+    <string name="andromeda_installed">Andromeda Installed</string>
+    <string name="allow_root_access">Allow Root Access</string>
+    <string name="andromeda_pkg_name">projekt.andromeda</string>
+    <string name="substratum_pkg_name">projekt.substratum</string>
+    <string name="install_substratum_toast">Please Install Substratum First!</string>
+    <string name="install_andromeda_toast">Please Install Andromeda!</string>
+    <string name="grant_root_toast">Please Grant Root Access!</string>
+    <string name="adunit_id">ca-app-pub-2501611521485352/8519780202</string>
+    <string name="admob_pub_id">ca-app-pub-2501611521485352~1083486777</string>
+</resources>
